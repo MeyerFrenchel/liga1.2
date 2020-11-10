@@ -1,0 +1,30 @@
+
+
+.flag-small {
+  height: 50px;
+  width: 50px;
+  
+}
+
+.team-name {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  text-align: center;
+  border: 1px solid #3b922a;
+  
+  padding: 8px;
+}
+
+
+
+tr:nth-child(even) {
+  background-color: #41aea9;
+}
